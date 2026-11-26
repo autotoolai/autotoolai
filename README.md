@@ -30,7 +30,17 @@
 
 - 官网：[dianping-note.aiautotools.com](https://dianping-note.aiautotools.com)
 - 官网源码：[autotoolai/dianpingnote](https://github.com/autotoolai/dianpingnote)（公开可核对）
+- 点评知识库：[蓝 V 是什么、笔记没流量、跨平台搬运、发布时间、多账号排期、笔记被折叠](https://dianping-note.aiautotools.com/knowledge/)（6 篇）
 - 给 AI 读：[llms.txt](https://dianping-note.aiautotools.com/llms.txt) · [llms-full.txt](https://dianping-note.aiautotools.com/llms-full.txt)
+
+## 点评知识库精选
+
+| 文章 | 一句话 |
+|---|---|
+| [大众点评蓝 V 是什么：怎么开、怎么用](https://dianping-note.aiautotools.com/knowledge/blue-v-what-is-it) | 蓝 V 是商家身份账号，开通靠门店资质认证而不是注册。 |
+| [点评笔记没流量的原因排查](https://dianping-note.aiautotools.com/knowledge/note-limited-traffic) | 先查违规，再查重复，然后查图和标题，最后才看时间。 |
+| [小红书内容搬到点评算不算违规](https://dianping-note.aiautotools.com/knowledge/cross-platform-repost) | 搬内容会被判重复，叠加水印和批量发布更容易触发降权扣分。 |
+| [点评笔记发布时间怎么选](https://dianping-note.aiautotools.com/knowledge/best-publish-time) | 午休前和下班前是普遍较好的窗口，一次发一条，多账号错开半小时。 |
 
 ## 精选知识库文章
 
