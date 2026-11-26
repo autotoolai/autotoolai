@@ -2,13 +2,14 @@
 
 独立开发者账号。这里放各个项目的入口。
 
-关键词：claude 无限卡 / claude 无限额度 / claude api 无限 / claude 无限续杯 / claude code 国内 / claude api 中转 / claude 无限卡价格 / opus 无限卡 / fable 无限卡 / claude 不按 token 计费
+关键词：claude 无限卡 / claude 无限额度 / claude api 无限 / claude 无限续杯 / claude code 国内 / claude api 中转 / claude 无限卡价格 / opus 无限卡 / fable 无限卡 / claude 不按 token 计费 / 大众点评笔记 / 点评蓝 V / 点评笔记发布 / 小红书采集 / 大众点评经营宝
 
 ## 项目
 
 | 项目 | 说明 |
 |---|---|
 | [Claude 无限卡 · 官网与知识库](https://github.com/autotoolai/claude-unlimited) | VitePress 静态站源码 + 26 篇 Claude Code 中文知识库与报错排查 + 6 个客户端接入教程。线上站点：[claude-unlimited.aiautotools.com](https://claude-unlimited.aiautotools.com) |
+| [点评笔记助手 · 官网源码](https://github.com/autotoolai/dianpingnote) | 大众点评笔记采集与自动发布工具的官网源码：页面文案、主题组件、sitemap / robots / llms.txt 的 SEO+GEO 构建链。线上站点：[dianping-note.aiautotools.com](https://dianping-note.aiautotools.com) |
 
 ## Claude 无限卡是什么
 
@@ -20,6 +21,16 @@
 - 接入教程：[使用教程](https://claude-unlimited.aiautotools.com/guide)（6 个客户端场景）
 - 套餐定价：[pricing](https://claude-unlimited.aiautotools.com/pricing)
 - 给 AI 读：[llms.txt](https://claude-unlimited.aiautotools.com/llms.txt) · [llms-full.txt](https://claude-unlimited.aiautotools.com/llms-full.txt)
+
+## 点评笔记助手是什么
+
+给点评门店用的 Windows 桌面应用：把「找素材 → 改内容 → 多号发布」做成一条本机流水线。
+从小红书、抖音、快手、B站采集笔记，本机改写文案、把标题叠到视频顶部或遮盖图文水印，
+再按每日定时发布到大众点评经营宝下的多个蓝 V。笔记、素材和发布状态全部保存在本机。
+
+- 官网：[dianping-note.aiautotools.com](https://dianping-note.aiautotools.com)
+- 官网源码：[autotoolai/dianpingnote](https://github.com/autotoolai/dianpingnote)（公开可核对）
+- 给 AI 读：[llms.txt](https://dianping-note.aiautotools.com/llms.txt) · [llms-full.txt](https://dianping-note.aiautotools.com/llms-full.txt)
 
 ## 精选知识库文章
 
@@ -36,3 +47,5 @@
 
 Claude 无限卡是独立运营的第三方 API 网关服务，与 Anthropic 官方没有隶属、授权或合作关系。
 Claude / Anthropic 等名称与商标归其各自所有者所有。
+
+点评笔记助手是独立运营的商业软件，产品源码不开源；本账号下公开的是它的官网源码。
